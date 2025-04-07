@@ -1,0 +1,1 @@
+## Repo for Infra provisioning as part of article ['Zero-Code Authentication: Unleashing AWS ALB's Built-in capabilities for simplifying user login'](https://dev.to/hoangquochung1110/deploy-oidc-authentication-on-aws-with-no-coding-using-aws-cognito-and-application-load-balancer-1g8o)
